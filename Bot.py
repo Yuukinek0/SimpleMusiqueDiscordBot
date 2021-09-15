@@ -10,6 +10,13 @@
 #python3 -m pip install pynacl
 #python3 -m pip install youtube_dl
 
+#Credit to this guys who help me for make this simple code
+#Youtube channel link : https://www.youtube.com/channel/UChDVo_Uqomuk7KnMVp-Lhhw
+
+#I Make this bot be cause Rip all bot attacked by Youtube
+
+#Just Dont to forget to put your bot token down
+
 import discord, os
 
 from discord import Embed
